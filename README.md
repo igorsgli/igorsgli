@@ -5,9 +5,8 @@ Yandex.Practicum Student
 Languages and tools: Python/Django/Django REST framework/SQL/PostgreSQL/SQLite/GitHub/Nginx/Gunicorn/Docker/Docker Hub/Unittest/Yandex.Cloud.
 
 #### Contact me:
-email: li.sg.igor@gmail.com
-
-telegram - @igorsgli
+li.sg.igor@gmail.com
+/ telegram - @igorsgli
 
 <!--
 **igorsgli/igorsgli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

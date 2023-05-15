@@ -1,7 +1,5 @@
 ## Hi! 👋 I'm Igor. Python-developer.
 
-Yandex.Practicum graduate
-
 Languages and tools: Python/Django/Django REST Framework/SQL/PostgreSQL/SQLite/GitHub/Nginx/Gunicorn/Docker/Docker Hub/Unittest/Yandex.Cloud.
 
 

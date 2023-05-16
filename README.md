@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Igor. Python-developer.
 
-Languages and tools: Python/Django/Django REST Framework/SQL/PostgreSQL/SQLite/GitHub/Nginx/Gunicorn/Docker/Docker Hub/Unittest/Yandex.Cloud.
+Languages and tools: Python/Django/DFR/FastAPI/PostgreSQL/SQLAlchemy/SQL/Redis/Celery/GitHub/Nginx/Gunicorn/Docker/Yandex.Cloud.
 
 
 <!--

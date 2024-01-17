@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Igor. Python-developer.
 
-Languages and tools: Python/Django/DFR/FastAPI/PostgreSQL/SQLAlchemy/SQL/Redis/Celery/GitHub/Nginx/Gunicorn/Docker/Yandex.Cloud.
+Languages and tools: Python/Django/FastAPI/PostgreSQL/SQLAlchemy/SQL/Redis/Celery/Git/Nginx/Gunicorn/Docker/Yandex.Cloud.
 
 
 <!--
